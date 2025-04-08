@@ -42,13 +42,21 @@ This script fetches goal data from all matches in a specified league and season.
    }
    ```
 
-2. Run the script:
+2. Fill in the `x-mas` header value in the script:
+
+   ```python
+   headers = {
+       'x-mas': ''  # Required header, replace with your own value
+   }
+   ```
+
+3. Run the script:
 
    ```
    python main.py
    ```
 
-3. The script will generate a CSV file named `goals_SEASON.csv` in the same directory.
+4. The script will generate a CSV file named `goals_SEASON.csv` in the same directory.
 
 ## League IDs
 
