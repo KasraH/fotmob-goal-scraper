@@ -79,6 +79,10 @@ The CSV file contains the following columns:
 - `assistStr`: Information about the assist (if available)
 - `isHome`: Boolean indicating if the scoring team was playing at home
 
+## Example Output
+
+See `examples/la_liga_23_24.csv` for a sample of the generated CSV file.
+
 ## Notes
 
 - The script requires a stable internet connection to make API requests

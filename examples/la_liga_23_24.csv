@@ -1,0 +1,1006 @@
+matchId,team,player,timeStr,assistStr,isHome
+4205343,Rayo Vallecano,Isi Palazon,20,,False
+4205343,Rayo Vallecano,Randy Nteka,28,,False
+4205347,Sevilla,Youssef En-Nesyri,69,assist by Suso,True
+4205347,Valencia,Mouctar Diakhaby,60,assist by André Almeida,False
+4205347,Valencia,Javier Guerra,88,assist by Hugo Duro,False
+4205351,Real Sociedad,Takefusa Kubo,5,assist by Aihen Munoz,True
+4205351,Girona,Artem Dovbyk,72,assist by Viktor Tsigankov,False
+4205348,Las Palmas,Jonathan Viera,29,,True
+4205348,Mallorca,Antonio Raillo,70,assist by Sergi Darder,False
+4205344,Real Madrid,Rodrygo,28,assist by Daniel Carvajal,False
+4205344,Real Madrid,Jude Bellingham,36,assist by David Alaba,False
+4205346,Osasuna,Rubén Garcia,24,,False
+4205346,Osasuna,Moi Gomez,74,,False
+4205350,Villarreal,Jorge Cuenca,61,assist by Álex Baena,True
+4205350,Real Betis,Ayoze Pérez,20,assist by Luiz Henrique,False
+4205350,Real Betis,Willian José,90 + 5,assist by Youssouf Sabaly,False
+4205352,Cadiz,Federico San Emeterio,7,assist by Javier Hernández,True
+4205345,Atletico Madrid,Álvaro Morata,45 + 4,,True
+4205345,Atletico Madrid,Memphis Depay,67,assist by Yannick Carrasco,True
+4205345,Atletico Madrid,Marcos Llorente,90 + 8,,True
+4205345,Granada,Samuel Omorodion,62,assist by Gonzalo Villar,False
+4205355,Villarreal,Gerard Moreno,62,,False
+4205362,Valencia,Pepelu,74,,True
+4205360,Real Sociedad,Ander Barrenetxea,22,assist by Takefusa Kubo,True
+4205360,Celta Vigo,Oscar Mingueza,90 + 4,,False
+4205353,Almeria,Sergio Arribas,3,assist by Lucas Robertone,True
+4205353,Real Madrid,Jude Bellingham,19,,False
+4205353,Real Madrid,Jude Bellingham,60,assist by Toni Kroos,False
+4205353,Real Madrid,Vinicius Junior,73,assist by Jude Bellingham,False
+4205358,Athletic Club,Inaki Williams,11,assist by Nico Williams,False
+4205358,Athletic Club,Gorka Guruzeta,20,assist by Nico Williams,False
+4205361,Girona,Yangel Herrera,12,assist by Savio,True
+4205361,Girona,Cristhian Stuani,55,assist by Miguel Gutiérrez,True
+4205361,Girona,Cristhian Stuani,65,,True
+4205354,Barcelona,Pedri,82,assist by Ilkay Gündogan,True
+4205354,Barcelona,Ferran Torres,90 + 4,assist by Robert Lewandowski,True
+4205357,Deportivo Alaves,Luis Rioja,7,assist by Jon Guridi,True
+4205357,Deportivo Alaves,Rubén Duarte,44,assist by Luis Rioja,True
+4205357,Deportivo Alaves,Kike Garcia,54,assist by Jon Guridi,True
+4205357,Deportivo Alaves,Kike Garcia,59,assist by Luis Rioja,True
+4205357,Sevilla,Abdelkabir Abqar,15,,False
+4205357,Sevilla,Erik Lamela,41,assist by Lucas Ocampos,False
+4205357,Sevilla,Rafa Mir,90 + 7,,False
+4205356,Rayo Vallecano,Álvaro Garcia,75,assist by Unai Lopez,False
+4205356,Rayo Vallecano,Pathé Ciss,79,assist by Raul de Tomas,False
+4205364,Real Madrid,Jude Bellingham,81,assist by Joselu,False
+4205367,Cadiz,Luis Hernández,59,assist by Gonzalo Escalante,True
+4205367,Almeria,Kaiky,90 + 5,,False
+4205365,Granada,Miguel Rubio,12,assist by José Maria Callejon,True
+4205365,Granada,Bryan Zaragoza,46,assist by Gerard Gumbau,True
+4205365,Granada,Myrto Uzuni,70,,True
+4205365,Mallorca,Abdon Prats,38,assist by Toni Lato,False
+4205365,Mallorca,Samu,87,,False
+4205370,Sevilla,Nemanja Gudelj,45 + 2,,True
+4205370,Girona,Yangel Herrera,16,,False
+4205370,Girona,Aleix Garcia,56,assist by Arnau Martinez,False
+4205369,Villarreal,Juan Foyth,26,assist by Álex Baena,True
+4205369,Villarreal,Alexander Sørloth,40,assist by Alfonso Pedraza,True
+4205369,Villarreal,Álex Baena,50,assist by Alfonso Pedraza,True
+4205369,Barcelona,Gavi,12,assist by Lamine Yamal,False
+4205369,Barcelona,Frenkie de Jong,15,,False
+4205369,Barcelona,Ferran Torres,68,,False
+4205369,Barcelona,Robert Lewandowski,71,,False
+4205371,Valencia,Hugo Duro,80,,True
+4205371,Osasuna,Aimar Oroz,24,,False
+4205371,Osasuna,Nacho Vidal,90 + 5,assist by Ante Budimir,False
+4205363,Athletic Club,Mikel Vesga,30,,True
+4205363,Athletic Club,Mikel Vesga,45,,True
+4205363,Athletic Club,Gorka Guruzeta,45 + 7,assist by Inaki Williams,True
+4205363,Athletic Club,Unai Gomez,84,,True
+4205363,Real Betis,Willian José,2,,False
+4205363,Real Betis,Isco,10,assist by Aitor Ruibal,False
+4205372,Getafe,Borja Mayoral,84,,True
+4205368,Atletico Madrid,Antoine Griezmann,2,assist by Rodrigo De Paul,False
+4205368,Atletico Madrid,Memphis Depay,16,assist by Saul Niguez,False
+4205368,Atletico Madrid,Nahuel Molina,36,assist by Rodrigo De Paul,False
+4205368,Atletico Madrid,Álvaro Morata,73,assist by Saul Niguez,False
+4205368,Atletico Madrid,Álvaro Morata,84,assist by Ángel Correa,False
+4205368,Atletico Madrid,Ángel Correa,79,,False
+4205368,Atletico Madrid,Marcos Llorente,86,,False
+4205376,Cadiz,Christopher Ramos,18,,True
+4205376,Cadiz,Darwin Machis,30,,True
+4205376,Cadiz,Darwin Machis,50,assist by Gonzalo Escalante,True
+4205376,Villarreal,Alexander Sørloth,10,,False
+4205373,Almeria,Sergio Akieme,54,assist by Gonzalo Melero,True
+4205373,Almeria,Sergio Arribas,68,assist by Largie Ramazani,True
+4205373,Celta Vigo,Unai Nunez,24,assist by Iago Aspas,False
+4205373,Celta Vigo,Jørgen Strand Larsen,33,,False
+4205373,Celta Vigo,Williot Swedberg,87,assist by Manuel Sánchez,False
+4205382,Real Sociedad,Takefusa Kubo,9,assist by Brais Méndez,True
+4205382,Real Sociedad,Takefusa Kubo,44,assist by Hamari Traoré,True
+4205382,Real Sociedad,Martin Zubimendi,59,assist by Brais Méndez,True
+4205382,Real Sociedad,Ander Barrenetxea,67,assist by Mikel Oyarzabal,True
+4205382,Real Sociedad,Miki Bosch,76,,True
+4205382,Granada,Robin Le Normand,35,,False
+4205382,Granada,Lucas Boye,83,assist by Antonio Puertas,False
+4205382,Granada,Bryan Zaragoza,90 + 9,assist by Gonzalo Villar,False
+4205381,Real Madrid,Joselu,47,,True
+4205381,Real Madrid,Jude Bellingham,90 + 5,,True
+4205381,Getafe,Borja Mayoral,11,,False
+4205378,Deportivo Alaves,Cenk Özkacar,6,,True
+4205375,Real Betis,Willian José,53,,True
+4205377,Girona,Cristian Portu,88,assist by Yan Couto,True
+4205380,Osasuna,Ezequiel Ávila,76,assist by Jesus Areso,True
+4205380,Barcelona,Jules Koundé,45 + 1,assist by Ilkay Gündogan,False
+4205380,Barcelona,Robert Lewandowski,85,,False
+4205392,Rayo Vallecano,Isi Palazon,43,,True
+4205392,Rayo Vallecano,Jorge de Frutos,82,assist by Álvaro Garcia,True
+4205383,Athletic Club,Gorka Guruzeta,66,assist by Oscar de Marcos,True
+4205383,Athletic Club,Asier Villalibre,68,,True
+4205383,Athletic Club,Inaki Williams,90,assist by Asier Villalibre,True
+4205389,Valencia,Hugo Duro,5,,True
+4205389,Valencia,Hugo Duro,34,assist by Fran Pérez,True
+4205389,Valencia,Javier Guerra,54,assist by Thierry Correia,True
+4205385,Mallorca,Vedat Muriqi,85,assist by Daniel Rodriguez,False
+4205384,Barcelona,Joao Félix,25,assist by Oriol Romeu,True
+4205384,Barcelona,Robert Lewandowski,32,assist by Andreas Christensen,True
+4205384,Barcelona,Ferran Torres,62,,True
+4205384,Barcelona,Raphinha,66,assist by Robert Lewandowski,True
+4205384,Barcelona,Joao Cancelo,81,assist by Robert Lewandowski,True
+4205386,Getafe,Stefan Mitrovic,36,assist by Damian Suarez,True
+4205386,Getafe,José Ángel Carmona,51,assist by Diego Rico,True
+4205386,Getafe,Nemanja Maksimovic,86,assist by Carles Alena,True
+4205386,Osasuna,Iker Munoz,45,assist by Aimar Oroz,False
+4205386,Osasuna,Ante Budimir,57,,False
+4205388,Villarreal,Gerard Moreno,45 + 5,assist by Álex Baena,True
+4205388,Villarreal,Alexander Sørloth,90 + 4,assist by Alberto Moreno,True
+4205388,Almeria,Sergio Akieme,44,assist by Lucas Robertone,False
+4205391,Sevilla,Dodi Lukebakio,71,,True
+4205387,Real Madrid,Federico Valverde,46,assist by Francisco Garcia,True
+4205387,Real Madrid,Joselu,60,assist by Francisco Garcia,True
+4205387,Real Sociedad,Ander Barrenetxea,5,,False
+4205390,Granada,Myrto Uzuni,63,assist by Ignasi Miquel,True
+4205390,Granada,Lucas Boye,85,assist by Famara Diédhiou,True
+4205390,Girona,Viktor Tsigankov,22,assist by Savio,False
+4205390,Girona,Savio,31,,False
+4205390,Girona,David Lopez,34,assist by Artem Dovbyk,False
+4205390,Girona,Yan Couto,89,assist by Cristhian Stuani,False
+4205400,Athletic Club,Inaki Williams,18,assist by Mikel Vesga,False
+4205400,Athletic Club,Oihan Sancet,76,assist by Inaki Williams,False
+4205397,Girona,David Lopez,26,assist by Daley Blind,True
+4205397,Girona,Artem Dovbyk,33,,True
+4205397,Girona,Iván Martin,37,assist by Savio,True
+4205397,Girona,Yangel Herrera,45,,True
+4205397,Girona,Savio,57,assist by Artem Dovbyk,True
+4205397,Mallorca,Vedat Muriqi,4,,False
+4205397,Mallorca,Abdon Prats,88,,False
+4205397,Mallorca,Abdon Prats,90 + 5,assist by Sergi Darder,False
+4205395,Barcelona,Robert Lewandowski,81,assist by Joao Félix,True
+4205395,Barcelona,Robert Lewandowski,85,assist by Joao Cancelo,True
+4205395,Barcelona,Joao Cancelo,89,assist by Gavi,True
+4205395,Celta Vigo,Jørgen Strand Larsen,19,assist by Luca de la Torre,False
+4205395,Celta Vigo,Anastasios Douvikas,76,assist by Iago Aspas,False
+4205393,Almeria,Sergio Arribas,59,,True
+4205393,Almeria,Sergio Arribas,69,,True
+4205393,Valencia,Diego Lopez,14,assist by Javier Guerra,False
+4205393,Valencia,Javier Guerra,63,assist by Fran Pérez,False
+4205401,Real Sociedad,Takefusa Kubo,2,assist by Brais Méndez,True
+4205401,Real Sociedad,Mikel Oyarzabal,61,,True
+4205401,Real Sociedad,Mikel Oyarzabal,88,assist by Mikel Merino,True
+4205401,Real Sociedad,Brais Méndez,66,,True
+4205401,Getafe,Carles Alena,39,assist by Diego Rico,False
+4205401,Getafe,Borja Mayoral,45 + 5,,False
+4205401,Getafe,Juanmi Latasa,90 + 2,assist by Diego Rico,False
+4205399,Rayo Vallecano,Kike Pérez,16,assist by Unai Lopez,True
+4205399,Villarreal,Alexander Sørloth,15,assist by Álex Baena,False
+4205402,Las Palmas,Kirian Rodriguez,90 + 2,assist by Sory Kaba,True
+4205396,Real Betis,Guido Rodriguez,60,,True
+4205396,Cadiz,Christopher Ramos,41,,False
+4205394,Atletico Madrid,Álvaro Morata,4,assist by Samuel Dias Lino,True
+4205394,Atletico Madrid,Álvaro Morata,46,assist by Saul Niguez,True
+4205394,Atletico Madrid,Antoine Griezmann,18,assist by Saul Niguez,True
+4205394,Real Madrid,Toni Kroos,35,,False
+4205405,Sevilla,Youssef En-Nesyri,7,,True
+4205405,Sevilla,Dodi Lukebakio,8,,True
+4205405,Sevilla,Suso,38,assist by Djibril Sow,True
+4205405,Sevilla,Erik Lamela,51,assist by Adrià Pedrosa,True
+4205405,Sevilla,Kike Salas,90 + 2,assist by Juanlu Sánchez,True
+4205405,Almeria,Luis Suárez,71,,False
+4205407,Mallorca,Vedat Muriqi,8,assist by Antonio Sánchez,True
+4205407,Mallorca,Abdon Prats,45 + 3,assist by Vedat Muriqi,True
+4205407,Barcelona,Raphinha,41,,False
+4205407,Barcelona,Fermin Lopez,75,assist by Raphinha,False
+4205403,Athletic Club,Yuri Berchiche,6,assist by Alex Berenguer,True
+4205403,Athletic Club,Inaki Williams,62,assist by Oscar de Marcos,True
+4205403,Getafe,Gaston Álvarez,51,assist by Mason Greenwood,False
+4205403,Getafe,Juanmi Latasa,83,assist by José Ángel Carmona,False
+4205411,Real Madrid,Brahim Diaz,45 + 3,assist by Lucas Vázquez,True
+4205411,Real Madrid,Joselu,54,assist by Rodrygo,True
+4205409,Villarreal,Daniel Parejo,49,,True
+4205409,Girona,Artem Dovbyk,56,assist by Savio,False
+4205409,Girona,Eric Garcia,61,assist by Aleix Garcia,False
+4205410,Real Sociedad,Carlos Fernández,32,assist by Kieran Tierney,False
+4205412,Celta Vigo,Rafa Marin,35,,True
+4205412,Deportivo Alaves,Samuel Omorodion,73,assist by Javi Lopez,False
+4205408,Granada,Lucas Boye,67,assist by Bryan Zaragoza,True
+4205408,Real Betis,Assane Diao,51,assist by Ayoze Pérez,False
+4205406,Atletico Madrid,Antoine Griezmann,20,,False
+4205406,Atletico Madrid,Rodrigo Riquelme,81,assist by Samuel Dias Lino,False
+4205415,Barcelona,Sergio Ramos,76,,True
+4205422,Rayo Vallecano,Álvaro Garcia,4,assist by Sergio Camello,True
+4205422,Rayo Vallecano,Radamel Falcao,90 + 12,,True
+4205422,Mallorca,Vedat Muriqi,44,assist by Abdon Prats,False
+4205422,Mallorca,Antonio Sánchez,59,assist by Sergi Darder,False
+4205418,Real Madrid,Joselu,17,assist by Jude Bellingham,False
+4205418,Real Madrid,Aurélien Tchouaméni,21,assist by Toni Kroos,False
+4205418,Real Madrid,Jude Bellingham,71,assist by Joselu,False
+4205420,Real Sociedad,Robin Le Normand,30,,True
+4205420,Real Sociedad,Takefusa Kubo,48,assist by Umar Sadiq,True
+4205420,Real Sociedad,Mikel Oyarzabal,66,assist by Martin Zubimendi,True
+4205413,Almeria,Luis Suárez,41,assist by Largie Ramazani,True
+4205413,Almeria,Luis Suárez,44,assist by Largie Ramazani,True
+4205413,Almeria,Luis Suárez,45 + 1,assist by Largie Ramazani,True
+4205413,Granada,Bryan Zaragoza,66,,False
+4205413,Granada,Ricard Sánchez,70,assist by Antonio Puertas,False
+4205413,Granada,Myrto Uzuni,86,assist by Lucas Boye,False
+4205419,Osasuna,José Arnáiz,36,assist by Rubén Pena,False
+4205419,Osasuna,Ante Budimir,90,assist by Juan Cruz,False
+4205414,Atletico Madrid,Ángel Correa,32,assist by César Azpilicueta,True
+4205414,Atletico Madrid,Ángel Correa,66,assist by Saul Niguez,True
+4205414,Atletico Madrid,Nahuel Molina,46,,True
+4205414,Cadiz,Lucas Pires,12,assist by Christopher Ramos,False
+4205414,Cadiz,Roger,27,,False
+4205416,Real Betis,Assane Diao,41,assist by Marc Roca,True
+4205416,Real Betis,Marc Roca,52,assist by Isco,True
+4205416,Real Betis,Abdessamad Ezzalzouli,85,assist by William Carvalho,True
+4205421,Las Palmas,Jonathan Viera,84,,True
+4205421,Las Palmas,Marc Cardona,90 + 7,assist by Jonathan Viera,True
+4205421,Celta Vigo,Anastasios Douvikas,67,assist by Jonathan Bamba,False
+4205428,Athletic Club,Gorka Guruzeta,10,assist by Yuri Berchiche,True
+4205428,Athletic Club,Dani Garcia,63,assist by Oscar de Marcos,True
+4205428,Athletic Club,Oihan Sancet,81,,True
+4205424,Girona,Aleix Garcia,59,assist by Yan Couto,False
+4205430,Real Madrid,Jude Bellingham,9,assist by Daniel Carvajal,True
+4205430,Real Madrid,Jude Bellingham,54,assist by Federico Valverde,True
+4205430,Real Madrid,Vinicius Junior,65,assist by Federico Valverde,True
+4205430,Real Madrid,Joselu,70,assist by Vinicius Junior,True
+4205426,Mallorca,Daniel Rodriguez,5,assist by Vedat Muriqi,True
+4205426,Valencia,Diego Lopez,45 + 3,assist by Thierry Correia,False
+4205431,Sevilla,Djibril Sow,50,assist by Loic Badé,True
+4205431,Sevilla,Youssef En-Nesyri,90 + 6,assist by Ivan Rakitic,True
+4205431,Rayo Vallecano,Oscar Valentin,21,,False
+4205431,Rayo Vallecano,Álvaro Garcia,26,assist by Raul de Tomas,False
+4205432,Villarreal,Gerard Moreno,90 + 2,assist by Ilias Akhomach,True
+4205432,Las Palmas,Saul Coco,45 + 2,,False
+4205432,Las Palmas,Marc Cardona,51,,False
+4205423,Atlético Madrid,Samuel Dias Lino,22,assist by Koke,True
+4205423,Atlético Madrid,Antoine Griezmann,89,,True
+4205423,Real Sociedad,Mikel Oyarzabal,73,assist by Carlos Fernández,False
+4205425,Celta Vigo,Jonathan Bamba,24,assist by Luca de la Torre,True
+4205425,Celta Vigo,Jørgen Strand Larsen,42,,True
+4205425,Getafe,Borja Mayoral,2,assist by Diego Rico,False
+4205425,Getafe,Mason Greenwood,33,assist by Borja Mayoral,False
+4205427,Deportivo Alaves,Hector Bellerin,35,,True
+4205427,Real Betis,Ayoze Pérez,32,,False
+4205429,Granada,Bryan Zaragoza,1,assist by Lucas Boye,True
+4205429,Granada,Bryan Zaragoza,29,assist by Gerard Gumbau,True
+4205429,Barcelona,Lamine Yamal,45 + 1,,False
+4205429,Barcelona,Sergi Roberto,85,assist by Álex Balde,False
+4205441,Osasuna,Ante Budimir,11,assist by Ezequiel Ávila,True
+4205441,Osasuna,Ante Budimir,59,,True
+4205439,Real Sociedad,Brais Méndez,64,assist by Takefusa Kubo,True
+4205437,Getafe,Borja Mayoral,17,assist by Diego Rico,True
+4205437,Real Betis,Marc Roca,1,assist by Borja Iglesias,False
+4205440,Sevilla,David Alaba,74,,True
+4205440,Real Madrid,Daniel Carvajal,78,assist by Toni Kroos,False
+4205436,Atlético Madrid,Antoine Griezmann,29,,False
+4205436,Atlético Madrid,Antoine Griezmann,64,,False
+4205436,Atlético Madrid,Antoine Griezmann,70,assist by Nahuel Molina,False
+4205433,Rayo Vallecano,Bebé,90 + 1,,False
+4205434,Girona,Iván Martin,37,assist by Aleix Garcia,True
+4205434,Girona,Artem Dovbyk,39,assist by Daley Blind,True
+4205434,Girona,Artem Dovbyk,43,assist by Yan Couto,True
+4205434,Girona,Savio,71,assist by Aleix Garcia,True
+4205434,Girona,Cristhian Stuani,85,assist by Arnau Martinez,True
+4205434,Almeria,Leo Baptistao,2,assist by Lucas Robertone,False
+4205434,Almeria,Leo Baptistao,24,,False
+4205442,Villarreal,Gerard Moreno,65,,True
+4205442,Deportivo Alaves,Samuel Omorodion,48,assist by Jon Guridi,False
+4205435,Barcelona,Marc Guiu,80,assist by Joao Félix,True
+4205438,Valencia,José Gayà,4,assist by Selim Amallah,True
+4205438,Valencia,Hugo Duro,25,,True
+4205450,Girona,Yangel Herrera,90 + 1,assist by Aleix Garcia,True
+4205443,Almeria,Largie Ramazani,73,assist by Lucas Robertone,True
+4205443,Las Palmas,Munir El Haddadi,23,assist by Marvin Park,False
+4205443,Las Palmas,Sory Kaba,90 + 4,,False
+4205445,Barcelona,Ilkay Gündogan,6,,True
+4205445,Real Madrid,Jude Bellingham,68,,False
+4205445,Real Madrid,Jude Bellingham,90 + 2,assist by Luka Modric,False
+4205447,Cadiz,Christopher Ramos,8,assist by Roger,True
+4205447,Cadiz,Darwin Machis,28,assist by Roger,True
+4205447,Sevilla,Lucas Ocampos,37,assist by Juanlu Sánchez,False
+4205447,Sevilla,Ivan Rakitic,60,,False
+4205446,Real Betis,Willian José,45 + 1,assist by Isco,True
+4205446,Real Betis,Isco,90 + 4,,True
+4205446,Osasuna,Rubén Garcia,85,assist by Alejandro Catena,False
+4205448,Rayo Vallecano,Abdul Mumin,31,,True
+4205448,Rayo Vallecano,Bebé,90 + 1,assist by Florian Lejeune,True
+4205448,Real Sociedad,Mikel Oyarzabal,41,assist by Ander Barrenetxea,False
+4205448,Real Sociedad,Mikel Oyarzabal,66,,False
+4205444,Athletic Club,Oscar de Marcos,32,assist by Nico Williams,True
+4205444,Athletic Club,Alex Berenguer,90 + 7,assist by Inaki Williams,True
+4205444,Valencia,Fran Pérez,62,assist by Hugo Duro,False
+4205444,Valencia,Hugo Duro,68,assist by Fran Pérez,False
+4205452,Atlético Madrid,Rodrigo Riquelme,26,assist by Álvaro Morata,True
+4205452,Atlético Madrid,Álvaro Morata,45 + 1,assist by Koke,True
+4205452,Deportivo Alaves,Ander Guevara,90 + 6,assist by Ianis Hagi,False
+4205449,Granada,Ricard Sánchez,29,assist by Gonzalo Villar,True
+4205449,Granada,Myrto Uzuni,34,assist by Bryan Zaragoza,True
+4205449,Villarreal,Gerard Moreno,18,assist by Alexander Sørloth,False
+4205449,Villarreal,Gerard Moreno,23,,False
+4205449,Villarreal,Alexander Sørloth,28,assist by Daniel Parejo,False
+4205457,Las Palmas,Kirian Rodriguez,51,assist by Alberto Moleiro,True
+4205457,Las Palmas,Benito,75,assist by Munir El Haddadi,True
+4205457,Atlético Madrid,Álvaro Morata,83,assist by Rodrigo Riquelme,False
+4205460,Osasuna,Ante Budimir,25,,True
+4205460,Osasuna,Ante Budimir,55,assist by Johan Mojica,True
+4205460,Girona,Iván Martin,16,assist by Artem Dovbyk,False
+4205460,Girona,Artem Dovbyk,71,,False
+4205460,Girona,Viktor Tsigankov,80,assist by Artem Dovbyk,False
+4205460,Girona,Aleix Garcia,90,assist by Cristian Portu,False
+4205453,Real Betis,Willian José,7,assist by Juan Miranda,True
+4205453,Real Betis,Ayoze Pérez,65,assist by Luiz Henrique,True
+4205454,Celta Vigo,Carl Starfelt,22,assist by Iago Aspas,True
+4205454,Sevilla,Youssef En-Nesyri,84,,False
+4205458,Barcelona,Ronald Araujo,90 + 2,assist by Ilkay Gündogan,False
+4205455,Deportivo Alaves,Aleksandar Sedlar,79,,True
+4205462,Valencia,Pepelu,45 + 7,,True
+4205456,Villarreal,Gerard Moreno,86,assist by Étienne Capoue,True
+4205456,Villarreal,Alexander Sørloth,87,assist by Gerard Moreno,True
+4205456,Athletic Club,Inigo Ruiz de Galarreta,2,assist by Nico Williams,False
+4205456,Athletic Club,Nico Williams,22,assist by Oihan Sancet,False
+4205456,Athletic Club,Inaki Williams,30,assist by Oihan Sancet,False
+4205459,Getafe,Borja Mayoral,76,assist by Mason Greenwood,True
+4205464,Athletic Club,Oihan Sancet,37,,True
+4205464,Athletic Club,Gorka Guruzeta,45 + 5,assist by Nico Williams,True
+4205464,Athletic Club,Gorka Guruzeta,52,,True
+4205464,Athletic Club,Alex Berenguer,90 + 8,,True
+4205464,Celta Vigo,Iago Aspas,25,assist by Oscar Mingueza,False
+4205464,Celta Vigo,Jonathan Bamba,41,,False
+4205464,Celta Vigo,Jørgen Strand Larsen,66,assist by Iago Aspas,False
+4205470,Rayo Vallecano,Álvaro Garcia,5,assist by Isi Palazon,True
+4205470,Girona,Artem Dovbyk,42,assist by Viktor Tsigankov,False
+4205470,Girona,Savio,65,,False
+4205463,Almeria,Sergio Arribas,76,,True
+4205463,Real Sociedad,Mikel Oyarzabal,62,,False
+4205463,Real Sociedad,Carlos Fernández,90 + 1,,False
+4205463,Real Sociedad,Martin Zubimendi,90 + 5,assist by Aritz Elustondo,False
+4205469,Granada,Gonzalo Villar,45 + 4,assist by Carlos Neva,True
+4205469,Getafe,Borja Mayoral,2,assist by Mason Greenwood,False
+4205471,Osasuna,Ante Budimir,73,assist by Jon Moncayola,True
+4205471,Las Palmas,Alberto Moleiro,70,assist by Javier Munoz,False
+4205466,Real Madrid,Daniel Carvajal,3,assist by Toni Kroos,True
+4205466,Real Madrid,Vinicius Junior,42,assist by Rodrygo,True
+4205466,Real Madrid,Vinicius Junior,49,assist by Rodrygo,True
+4205466,Real Madrid,Rodrygo,50,,True
+4205466,Real Madrid,Rodrygo,84,assist by Francisco Garcia,True
+4205466,Valencia,Hugo Duro,88,assist by Hugo Gonzalez,False
+4205472,Barcelona,Robert Lewandowski,53,assist by Jules Koundé,True
+4205472,Barcelona,Robert Lewandowski,78,,True
+4205472,Deportivo Alaves,Samuel Omorodion,1,assist by Javi Lopez,False
+4205467,Sevilla,Ivan Rakitic,79,assist by Dodi Lukebakio,True
+4205467,Real Betis,Ayoze Pérez,72,,False
+4205465,Atlético Madrid,Axel Witsel,45 + 1,assist by Antoine Griezmann,True
+4205465,Atlético Madrid,Antoine Griezmann,80,assist by Marcos Llorente,True
+4205465,Atlético Madrid,Samuel Dias Lino,85,assist by Pablo Barrios,True
+4205465,Villarreal,Gerard Moreno,20,,False
+4205477,Deportivo Alaves,Raul Torrente,11,,True
+4205477,Deportivo Alaves,Abderrahman Rebbach,38,assist by Javi Lopez,True
+4205477,Deportivo Alaves,Samuel Omorodion,55,assist by Luis Rioja,True
+4205477,Granada,Myrto Uzuni,86,,False
+4205480,Rayo Vallecano,Unai Lopez,39,,True
+4205480,Barcelona,Florian Lejeune,82,,False
+4205478,Getafe,Mason Greenwood,33,assist by Omar Alderete,True
+4205478,Getafe,Borja Mayoral,45,,True
+4205478,Almeria,Largie Ramazani,7,assist by Juan Brandariz,False
+4205473,Atlético Madrid,Antoine Griezmann,64,assist by Mario Hermoso,True
+4205482,Villarreal,José Luis Morales,57,assist by Gerard Moreno,True
+4205482,Villarreal,José Luis Morales,71,,True
+4205482,Villarreal,José Luis Morales,80,assist by Álex Baena,True
+4205482,Osasuna,Alejandro Catena,78,assist by Ezequiel Ávila,False
+4205476,Real Sociedad,Marko Dmitrovic,3,,True
+4205476,Real Sociedad,Umar Sadiq,22,assist by Hamari Traoré,True
+4205476,Sevilla,Youssef En-Nesyri,60,assist by Adrià Pedrosa,False
+4205475,Real Madrid,Rodrygo,14,,False
+4205475,Real Madrid,Rodrygo,64,assist by Luka Modric,False
+4205475,Real Madrid,Jude Bellingham,74,assist by Rodrygo,False
+4205474,Real Betis,Willian José,19,,True
+4205479,Girona,Viktor Tsigankov,55,,True
+4205479,Athletic Club,Inaki Williams,67,assist by Oihan Sancet,False
+4205468,Mallorca,Abdon Prats,45 + 1,assist by Pablo Maffeo,True
+4205468,Cadiz,Rubén Alcaraz,12,,False
+4205490,Las Palmas,Julian Araujo,43,assist by Kirian Rodriguez,True
+4205490,Las Palmas,Cristian Herrera,90 + 2,assist by Marvin Park,True
+4205485,Girona,Cristhian Stuani,82,assist by Yan Couto,True
+4205485,Girona,Cristhian Stuani,88,,True
+4205485,Valencia,Hugo Duro,56,,False
+4205484,Athletic Club,Gorka Guruzeta,23,assist by Oihan Sancet,True
+4205484,Athletic Club,Alfonso Espino,47,,True
+4205484,Athletic Club,Inaki Williams,64,assist by Gorka Guruzeta,True
+4205484,Athletic Club,Nico Williams,68,assist by Inigo Lekue,True
+4205491,Real Madrid,Brahim Diaz,26,assist by Toni Kroos,True
+4205491,Real Madrid,Rodrygo,57,,True
+4205486,Osasuna,Moi Gomez,2,assist by Ante Budimir,True
+4205486,Real Sociedad,Umar Sadiq,41,assist by Igor Zubeldia,False
+4205487,Sevilla,Kike Salas,75,assist by Adrià Pedrosa,True
+4205487,Villarreal,José Luis Morales,77,,False
+4205488,Barcelona,Joao Félix,28,assist by Raphinha,True
+4205489,Celta Vigo,Jørgen Strand Larsen,57,assist by Manuel Sánchez,True
+4205489,Cadiz,Christopher Ramos,16,assist by Iván Alejo,False
+4205496,Getafe,Borja Mayoral,87,assist by Juan Iglesias,True
+4205498,Las Palmas,Kirian Rodriguez,31,assist by Alberto Moleiro,False
+4205494,Real Betis,Aitor Ruibal,66,assist by Willian José,True
+4205494,Real Madrid,Jude Bellingham,53,assist by Brahim Diaz,False
+4205502,Real Sociedad,Mikel Merino,38,assist by Takefusa Kubo,False
+4205502,Real Sociedad,Martin Zubimendi,41,assist by Arsen Zakharyan,False
+4205502,Real Sociedad,Takefusa Kubo,45 + 4,assist by Mikel Merino,False
+4205497,Mallorca,Cyle Larin,11,assist by Samu,True
+4205499,Atletico Madrid,Álvaro Morata,17,assist by Antoine Griezmann,True
+4205499,Atletico Madrid,Ángel Correa,22,assist by Marcos Llorente,True
+4205499,Almeria,Leo Baptistao,62,,False
+4205495,Cadiz,Roger,19,assist by Iván Alejo,True
+4205495,Osasuna,Ante Budimir,70,,False
+4205493,Barcelona,Robert Lewandowski,19,assist by Raphinha,True
+4205493,Barcelona,Ilkay Gündogan,90 + 2,assist by Ferran Torres,True
+4205493,Girona,Artem Dovbyk,12,assist by Viktor Tsigankov,False
+4205493,Girona,Miguel Gutiérrez,40,assist by Iván Martin,False
+4205493,Girona,Valery Fernández,80,assist by Cristhian Stuani,False
+4205493,Girona,Cristhian Stuani,90 + 5,assist by Savio,False
+4205500,Granada,Inigo Ruiz de Galarreta,55,,True
+4205500,Athletic Club,Inaki Williams,6,,False
+4205506,Osasuna,Raul Garcia,90 + 5,assist by José Arnáiz,True
+4205505,Celta Vigo,Jørgen Strand Larsen,20,,True
+4205504,Athletic Club,Gorka Guruzeta,51,assist by Ander Herrera,True
+4205504,Athletic Club,Nico Williams,64,assist by Inigo Lekue,True
+4205511,Getafe,Borja Mayoral,5,,False
+4205511,Getafe,Jaime Mata,37,assist by Mason Greenwood,False
+4205511,Getafe,Mason Greenwood,80,,False
+4205508,Valencia,Hugo Guillamon,70,assist by Diego Lopez,True
+4205508,Barcelona,Joao Félix,55,assist by Raphinha,False
+4205510,Las Palmas,Pejino,7,,True
+4205510,Cadiz,Christopher Ramos,83,assist by Robert Navarro,False
+4205507,Real Madrid,Jude Bellingham,25,assist by Luka Modric,True
+4205507,Real Madrid,Rodrygo,37,assist by Lucas Vázquez,True
+4205507,Real Madrid,Brahim Diaz,64,assist by Francisco Garcia,True
+4205507,Real Madrid,Luka Modric,68,,True
+4205507,Villarreal,José Luis Morales,54,assist by Ramon Terrats,False
+4205512,Girona,Artem Dovbyk,23,,True
+4205512,Girona,Artem Dovbyk,59,,True
+4205512,Girona,Cristian Portu,42,assist by Yan Couto,True
+4205518,Valencia,Sergi Canos,61,assist by Diego Lopez,False
+4205514,Atletico Madrid,Antoine Griezmann,44,assist by Rodrigo Riquelme,True
+4205514,Atletico Madrid,Antoine Griezmann,69,,True
+4205514,Atletico Madrid,Álvaro Morata,63,assist by Marcos Llorente,True
+4205514,Getafe,Borja Mayoral,53,,False
+4205514,Getafe,Borja Mayoral,90 + 3,,False
+4205514,Getafe,Oscar Rodriguez,87,assist by Damian Suarez,False
+4205519,Sevilla,Adrià Pedrosa,23,assist by Suso,False
+4205519,Sevilla,Lucas Ocampos,32,assist by Youssef En-Nesyri,False
+4205519,Sevilla,Sergio Ramos,49,assist by Suso,False
+4205521,Barcelona,Raphinha,33,,True
+4205521,Barcelona,Sergi Roberto,60,assist by Raphinha,True
+4205521,Barcelona,Sergi Roberto,83,assist by Robert Lewandowski,True
+4205521,Almeria,Leo Baptistao,41,assist by Sergio Arribas,False
+4205521,Almeria,Edgar González,71,,False
+4205513,Athletic Bilbao,Unai Gomez,90 + 4,,True
+4205522,Villarreal,Alfonso Pedraza,13,assist by Alexander Sørloth,True
+4205522,Villarreal,Aissa Mandi,40,,True
+4205522,Villarreal,Daniel Parejo,48,,True
+4205522,Celta Vigo,Anastasios Douvikas,52,,False
+4205522,Celta Vigo,Jørgen Strand Larsen,57,assist by Manuel Sánchez,False
+4205515,Real Betis,Germán Pezzella,88,assist by William Carvalho,True
+4205515,Girona,Artem Dovbyk,39,,False
+4205520,Real Madrid,Lucas Vázquez,90 + 2,assist by Toni Kroos,False
+4205517,Mallorca,Matija Nastasic,12,assist by Daniel Rodriguez,True
+4205517,Mallorca,Daniel Rodriguez,53,assist by Pablo Maffeo,True
+4205517,Mallorca,Antonio Raillo,62,assist by Daniel Rodriguez,True
+4205517,Osasuna,Pablo Ibánez,7,,False
+4205517,Osasuna,Raul Garcia,90 + 1,assist by Ezequiel Ávila,False
+4205374,Atletico Madrid,Marcos Llorente,46,,True
+4205523,Rayo Vallecano,Sergio Camello,45 + 1,,False
+4205523,Rayo Vallecano,Sergio Camello,47,assist by Randy Nteka,False
+4205532,Real Sociedad,Martin Zubimendi,90 + 6,assist by Mikel Merino,True
+4205532,Deportivo Alaves,Luis Rioja,76,,False
+4205524,Valencia,Roman Yaremchuk,4,assist by José Gayà,True
+4205524,Valencia,Pepelu,27,,True
+4205524,Valencia,Pepelu,57,,True
+4205524,Villarreal,Gerard Moreno,73,assist by Ilias Akhomach,False
+4205530,Granada,Myrto Uzuni,22,assist by Lucas Boye,True
+4205530,Granada,Bryan Zaragoza,70,assist by Carlos Neva,True
+4205529,Celta Vigo,Iago Aspas,16,,True
+4205529,Celta Vigo,Williot Swedberg,90 + 6,,True
+4205529,Real Betis,Aitor Ruibal,6,assist by Isco,False
+4205531,Real Madrid,Antonio Rüdiger,78,assist by Luka Modric,True
+4205527,Girona,Valery Fernández,2,assist by Pablo Torre,True
+4205527,Girona,Savio,26,,True
+4205527,Girona,Daley Blind,39,assist by Artem Dovbyk,True
+4205527,Girona,Iván Martin,90 + 1,assist by Cristian Portu,True
+4205527,Atletico Madrid,Álvaro Morata,14,assist by Antoine Griezmann,False
+4205527,Atletico Madrid,Álvaro Morata,44,assist by Rodrigo De Paul,False
+4205527,Atletico Madrid,Álvaro Morata,54,assist by Rodrigo De Paul,False
+4205525,Osasuna,Ante Budimir,27,,True
+4205526,Athletic Bilbao,Mikel Vesga,30,assist by Inigo Ruiz de Galarreta,False
+4205526,Athletic Bilbao,Aitor Paredes,76,assist by Ander Herrera,False
+4205528,Las Palmas,Munir El Haddadi,12,assist by Sandro Ramirez,True
+4205528,Barcelona,Ferran Torres,55,assist by Sergi Roberto,False
+4205528,Barcelona,Ilkay Gündogan,90 + 3,,False
+4205542,Sevilla,Rafa Mir,70,,True
+4205542,Sevilla,Lucas Ocampos,82,,True
+4205542,Deportivo Alaves,Nahuel Tenaglia,26,assist by Jon Guridi,False
+4205542,Deportivo Alaves,Kike Garcia,40,assist by Carlos Vicente,False
+4205542,Deportivo Alaves,Rubén Duarte,90,assist by Samuel Omorodion,False
+4205540,Las Palmas,Kirian Rodriguez,8,assist by Alberto Moleiro,True
+4205540,Las Palmas,Kirian Rodriguez,63,assist by Javier Munoz,True
+4205540,Las Palmas,Juanma Herzog,51,assist by Sandro Ramirez,True
+4205541,Mallorca,Cyle Larin,43,assist by Giovanni González,True
+4205541,Celta Vigo,Iago Aspas,10,assist by Jørgen Strand Larsen,False
+4205534,Athletic Club,Alex Berenguer,30,,True
+4205534,Athletic Club,Alex Berenguer,42,,True
+4205534,Real Sociedad,Mikel Oyarzabal,88,assist by Aihen Munoz,False
+4205537,Real Betis,Isco,76,assist by Marc Roca,True
+4205538,Cadiz,Rubén Alcaraz,21,,True
+4205538,Valencia,Hugo Duro,8,assist by Diego Lopez,False
+4205538,Valencia,Diego Lopez,52,assist by Sergi Canos,False
+4205538,Valencia,Javier Guerra,90 + 4,assist by Diego Lopez,False
+4205538,Valencia,Jesus Vázquez,90 + 8,assist by Alberto Mari,False
+4205545,Deportivo Alaves,Luis Rioja,51,,True
+4205552,Las Palmas,Alberto Moleiro,35,,False
+4205552,Las Palmas,Javier Munoz,83,assist by Sergi Cardona,False
+4205551,Villarreal,Alexander Sørloth,45 + 1,assist by Álex Baena,True
+4205551,Mallorca,Javi Llabrés,90 + 1,assist by Manu Morlanes,False
+4205547,Valencia,Hugo Duro,61,assist by José Gayà,True
+4205543,Real Sociedad,Brais Méndez,11,assist by Benat Turrientes,False
+4205550,Osasuna,Raul Garcia,9,assist by Pablo Ibánez,True
+4205550,Osasuna,Iker Munoz,31,,True
+4205550,Osasuna,Jesus Areso,80,,True
+4205550,Getafe,Borja Mayoral,64,assist by Enes Ünal,False
+4205550,Getafe,Nemanja Maksimovic,68,assist by Luis Milla,False
+4205546,Real Madrid,Jude Bellingham,57,,True
+4205546,Real Madrid,Vinicius Junior,67,assist by Aurélien Tchouaméni,True
+4205546,Real Madrid,Daniel Carvajal,90 + 9,assist by Jude Bellingham,True
+4205546,Almeria,Largie Ramazani,1,assist by Lucas Robertone,False
+4205546,Almeria,Edgar González,43,,False
+4205549,Real Betis,Isco,56,,True
+4205549,Real Betis,Isco,59,assist by Luiz Henrique,True
+4205549,Barcelona,Ferran Torres,21,assist by Pedri,False
+4205549,Barcelona,Ferran Torres,48,,False
+4205549,Barcelona,Ferran Torres,90 + 2,assist by Lamine Yamal,False
+4205549,Barcelona,Joao Félix,90,assist by Ferran Torres,False
+4205544,Girona,Artem Dovbyk,13,assist by Savio,True
+4205544,Girona,Artem Dovbyk,15,assist by Cristian Portu,True
+4205544,Girona,Artem Dovbyk,19,assist by Yan Couto,True
+4205544,Girona,Viktor Tsigankov,56,assist by Savio,True
+4205544,Girona,Cristhian Stuani,89,assist by Miguel Gutiérrez,True
+4205544,Sevilla,Isaac Romero,10,assist by Adrià Pedrosa,False
+4205548,Atletico Madrid,Álvaro Morata,54,assist by Antoine Griezmann,False
+4205562,Deportivo Alaves,Samuel Omorodion,10,assist by Carlos Vicente,False
+4205562,Deportivo Alaves,Samuel Omorodion,88,assist by Carlos Benavidez,False
+4205562,Deportivo Alaves,Luis Rioja,52,,False
+4205557,Las Palmas,Javier Munoz,53,assist by Sandro Ramirez,True
+4205557,Real Madrid,Vinicius Junior,65,assist by Eduardo Camavinga,False
+4205557,Real Madrid,Aurélien Tchouaméni,84,assist by Toni Kroos,False
+4205554,Barcelona,Ilkay Gündogan,60,assist by Robert Lewandowski,True
+4205554,Barcelona,Pedri,68,assist by Ilkay Gündogan,True
+4205554,Barcelona,Eric Bailly,71,,True
+4205554,Villarreal,Gerard Moreno,41,assist by Alexander Sørloth,False
+4205554,Villarreal,Ilias Akhomach,54,,False
+4205554,Villarreal,Goncalo Guedes,84,assist by Alexander Sørloth,False
+4205554,Villarreal,Alexander Sørloth,90 + 9,,False
+4205554,Villarreal,José Luis Morales,90 + 12,assist by Goncalo Guedes,False
+4205559,Real Betis,Sergi Altimira,45 + 1,assist by Nabil Fekir,False
+4205555,Girona,Cristian Portu,20,assist by Miguel Gutiérrez,False
+4205560,Sevilla,Isaac Romero,24,assist by Marcos Acuna,True
+4205560,Osasuna,Ante Budimir,55,assist by David Garcia,False
+4205553,Atletico Madrid,Samuel Dias Lino,45 + 5,assist by Antoine Griezmann,True
+4205553,Atletico Madrid,Memphis Depay,57,assist by Nahuel Molina,True
+4205556,Getafe,Mason Greenwood,21,assist by Juan Iglesias,True
+4205556,Getafe,Borja Mayoral,36,,True
+4205536,Barcelona,Vitor Roque,63,assist by Joao Cancelo,True
+4205535,Atletico Madrid,Reinildo,35,assist by Rodrigo Riquelme,True
+4205535,Atletico Madrid,Memphis Depay,90,assist by Antoine Griezmann,True
+4205535,Rayo Vallecano,Álvaro Garcia,42,assist by Pep Chavarria,False
+4205539,Real Madrid,Joselu,14,assist by Lucas Vázquez,False
+4205539,Real Madrid,Joselu,56,assist by Vinicius Junior,False
+4205563,Athletic Club,Yuri Berchiche,3,assist by Nico Williams,True
+4205563,Athletic Club,Yuri Berchiche,16,assist by Gorka Guruzeta,True
+4205563,Athletic Club,Gorka Guruzeta,62,assist by Oihan Sancet,True
+4205563,Athletic Club,Iker Muniain,89,assist by Oscar de Marcos,True
+4205569,Valencia,Hugo Duro,14,assist by Diego Lopez,True
+4205569,Valencia,Roman Yaremchuk,23,assist by Pepelu,True
+4205569,Almeria,Sergio Arribas,50,assist by Álex Centelles,False
+4205567,Granada,Bruno Méndez,43,assist by Sergio Ruiz,True
+4205567,Las Palmas,Pejino,68,assist by Sergi Cardona,False
+4205568,Deportivo Alaves,Samuel Omorodion,51,assist by Alex Sola,True
+4205568,Barcelona,Robert Lewandowski,22,assist by Ilkay Gündogan,False
+4205568,Barcelona,Ilkay Gündogan,49,assist by Pedri,False
+4205568,Barcelona,Vitor Roque,63,assist by Héctor Fort,False
+4205572,Celta Vigo,Jørgen Strand Larsen,24,assist by Luca de la Torre,False
+4205572,Celta Vigo,Luca de la Torre,25,assist by Jørgen Strand Larsen,False
+4205572,Celta Vigo,Anastasios Douvikas,90,assist by Jailson,False
+4205564,Real Betis,Isco,35,,True
+4205564,Getafe,Mason Greenwood,8,,False
+4205570,Real Madrid,Brahim Diaz,20,,True
+4205570,Atletico Madrid,Marcos Llorente,90 + 3,assist by Memphis Depay,False
+4205566,Rayo Vallecano,Isi Palazon,29,assist by Alfonso Espino,True
+4205566,Sevilla,Youssef En-Nesyri,19,,False
+4205566,Sevilla,Youssef En-Nesyri,45,assist by Isaac Romero,False
+4205579,Real Betis,Willian José,6,assist by Johnny,False
+4205579,Real Betis,Pablo Fornals,46,assist by Willian José,False
+4205577,Deportivo Alaves,Samuel Omorodion,25,assist by Alex Sola,True
+4205577,Villarreal,Jorge Cuenca,42,assist by Álex Baena,False
+4205582,Osasuna,Ante Budimir,49,assist by Jon Moncayola,False
+4205581,Real Madrid,Vinicius Junior,6,assist by Federico Valverde,True
+4205581,Real Madrid,Jude Bellingham,35,assist by Vinicius Junior,True
+4205581,Real Madrid,Jude Bellingham,54,,True
+4205581,Real Madrid,Rodrygo,61,assist by Vinicius Junior,True
+4205576,Las Palmas,Alex Suárez,89,assist by Marc Cardona,True
+4205576,Las Palmas,Marc Cardona,90 + 5,,True
+4205580,Getafe,Borja Mayoral,41,,True
+4205580,Getafe,Jaime Mata,45 + 2,,True
+4205580,Getafe,Jaime Mata,89,assist by Mason Greenwood,True
+4205580,Celta Vigo,Jørgen Strand Larsen,71,assist by Javier Manquillo,False
+4205580,Celta Vigo,Tadeo Allende,85,assist by Iago Aspas,False
+4205575,Mallorca,Antonio Sánchez,48,,True
+4205575,Mallorca,Vedat Muriqi,90 + 1,assist by Daniel Rodriguez,True
+4205575,Rayo Vallecano,Álvaro Garcia,76,,False
+4205578,Sevilla,Isaac Romero,15,assist by Lucas Ocampos,True
+4205574,Barcelona,Lamine Yamal,14,assist by Joao Cancelo,True
+4205574,Barcelona,Lamine Yamal,80,,True
+4205574,Barcelona,Robert Lewandowski,63,assist by Ilkay Gündogan,True
+4205574,Granada,Ricard Sánchez,43,assist by Facundo Pellistri,False
+4205574,Granada,Facundo Pellistri,60,assist by Myrto Uzuni,False
+4205574,Granada,Ignasi Miquel,66,assist by Faitout Maouassa,False
+4205590,Villarreal,Alberto Moreno,56,,True
+4205590,Getafe,Nemanja Maksimovic,24,,False
+4205584,Atletico Madrid,Marcos Llorente,15,,True
+4205584,Atletico Madrid,Marcos Llorente,20,assist by Ángel Correa,True
+4205584,Atletico Madrid,Ángel Correa,47,assist by Koke,True
+4205584,Atletico Madrid,Ángel Correa,62,,True
+4205584,Atletico Madrid,Memphis Depay,87,assist by Rodrigo Riquelme,True
+4205589,Osasuna,Ante Budimir,63,assist by Rubén Garcia,True
+4205589,Osasuna,Ante Budimir,90 + 1,assist by Jesus Areso,True
+4205588,Celta Vigo,Iago Aspas,47,assist by Oscar Mingueza,True
+4205588,Barcelona,Robert Lewandowski,45,assist by Lamine Yamal,False
+4205588,Barcelona,Robert Lewandowski,90 + 7,,False
+4205586,Rayo Vallecano,Raul de Tomas,27,,True
+4205586,Real Madrid,Joselu,3,assist by Federico Valverde,False
+4205587,Granada,Myrto Uzuni,75,assist by Gerard Gumbau,True
+4205587,Almeria,Marc Pubill,9,assist by Sergio Arribas,False
+4205585,Mallorca,Antonio Sánchez,4,assist by Cyle Larin,True
+4205585,Real Sociedad,Takefusa Kubo,38,assist by Igor Zubeldia,False
+4205585,Real Sociedad,Mikel Merino,90 + 3,assist by Jon Pacheco,False
+4205583,Athletic Club,Alex Berenguer,2,,True
+4205583,Athletic Club,Alex Berenguer,56,assist by Gorka Guruzeta,True
+4205583,Athletic Club,Inaki Williams,60,,True
+4205583,Girona,Viktor Tsigankov,49,assist by Iván Martin,False
+4205583,Girona,Eric Garcia,75,assist by Aleix Garcia,False
+4205598,Real Sociedad,Mikel Merino,86,,True
+4205598,Villarreal,Santi Comesana,17,assist by Raul Albiol,False
+4205598,Villarreal,Santi Comesana,47,assist by Álex Baena,False
+4205598,Villarreal,Alexander Sørloth,90 + 5,assist by Goncalo Guedes,False
+4205594,Barcelona,Raphinha,20,assist by Jules Koundé,True
+4205594,Barcelona,Joao Félix,53,assist by Andreas Christensen,True
+4205594,Barcelona,Frenkie de Jong,61,assist by Raphinha,True
+4205594,Barcelona,Fermin Lopez,90 + 1,,True
+4205601,Deportivo Alaves,Carlos Benavidez,76,assist by Luis Rioja,True
+4205601,Mallorca,Matija Nastasic,88,,False
+4205593,Almeria,Luka Romero,27,assist by Marc Pubill,True
+4205593,Almeria,Luka Romero,64,assist by Jonathan Viera,True
+4205593,Atletico Madrid,Ángel Correa,2,assist by Reinildo,False
+4205593,Atletico Madrid,Rodrigo De Paul,57,assist by Nahuel Molina,False
+4205595,Cadiz,Juanmi,66,assist by Sergi Guardiola,True
+4205595,Cadiz,Darwin Machis,90 + 10,,True
+4205595,Celta Vigo,Iago Aspas,11,assist by Luca de la Torre,False
+4205595,Celta Vigo,Williot Swedberg,58,assist by Manuel Sánchez,False
+4205602,Real Betis,Ezequiel Ávila,13,assist by Willian José,True
+4205602,Real Betis,Yuri Berchiche,38,,True
+4205602,Real Betis,Johnny,67,assist by Nabil Fekir,True
+4205602,Athletic Club,Gorka Guruzeta,45 + 7,assist by Alex Berenguer,False
+4205600,Las Palmas,Kirian Rodriguez,52,,True
+4205600,Osasuna,Unai Garcia,49,assist by Johan Mojica,False
+4205597,Real Madrid,Luka Modric,81,,True
+4205596,Girona,Viktor Tsigankov,52,assist by Miguel Gutiérrez,True
+4205596,Girona,Savio,90 + 1,assist by Pablo Torre,True
+4205596,Girona,Savio,90 + 5,assist by Yan Couto,True
+4205606,Celta Vigo,Oscar Mingueza,73,assist by Manuel Sánchez,True
+4205610,Sevilla,Youssef En-Nesyri,11,,True
+4205610,Sevilla,Youssef En-Nesyri,13,assist by Isaac Romero,True
+4205610,Sevilla,Sergio Ramos,65,assist by Oliver Torres,True
+4205610,Real Sociedad,André Silva,45 + 5,,False
+4205610,Real Sociedad,Brais Méndez,90 + 2,,False
+4205607,Rayo Vallecano,Florian Lejeune,89,,True
+4205607,Cadiz,Javier Hernández,90 + 13,assist by Victor Chust,False
+4205605,Getafe,Jaime Mata,11,assist by Diego Rico,True
+4205605,Getafe,Mason Greenwood,14,assist by Diego Rico,True
+4205605,Getafe,Nemanja Maksimovic,45,assist by Jaime Mata,True
+4205605,Las Palmas,Sandro Ramirez,35,assist by Kirian Rodriguez,False
+4205605,Las Palmas,Sergi Cardona,50,assist by Mika Mármol,False
+4205605,Las Palmas,Munir El Haddadi,57,assist by Javier Munoz,False
+4205609,Valencia,Hugo Duro,27,assist by Fran Pérez,True
+4205609,Valencia,Roman Yaremchuk,30,,True
+4205609,Real Madrid,Vinicius Junior,45 + 5,assist by Rodrygo,False
+4205609,Real Madrid,Vinicius Junior,76,assist by Brahim Diaz,False
+4205611,Villarreal,Alexander Sørloth,7,,True
+4205611,Villarreal,Alexander Sørloth,19,assist by Daniel Parejo,True
+4205611,Villarreal,Alexander Sørloth,66,assist by Daniel Parejo,True
+4205611,Villarreal,Étienne Capoue,32,assist by Daniel Parejo,True
+4205611,Villarreal,Goncalo Guedes,47,assist by Álex Baena,True
+4205611,Granada,Theodor Corbeanu,90 + 1,assist by Sergio Ruiz,False
+4205604,Atletico Madrid,Rui Silva,8,,True
+4205604,Atletico Madrid,Álvaro Morata,44,,True
+4205604,Real Betis,William Carvalho,62,assist by Johnny,False
+4205608,Mallorca,José Copete,33,assist by Cyle Larin,True
+4205612,Osasuna,Ante Budimir,76,assist by Rubén Garcia,True
+4205614,Barcelona,Lamine Yamal,73,assist by Robert Lewandowski,True
+4205622,Valencia,Hugo Duro,40,assist by Sergi Canos,True
+4205620,Cadiz,Juanmi,24,assist by Ruben Sobrino,True
+4205620,Cadiz,Juanmi,64,assist by Javier Hernández,True
+4205617,Granada,Myrto Uzuni,21,,True
+4205617,Granada,Myrto Uzuni,45 + 3,,True
+4205617,Real Sociedad,Umar Sadiq,33,assist by Brais Méndez,False
+4205617,Real Sociedad,Robin Le Normand,80,assist by Kieran Tierney,False
+4205617,Real Sociedad,André Silva,85,,False
+4205616,Girona,Cristian Portu,13,assist by Viktor Tsigankov,True
+4205616,Girona,Savio,86,assist by Aleix Garcia,True
+4205618,Deportivo Alaves,Andoni Gorosabel,44,assist by Antonio Blanco,True
+4205619,Athletic Club,Gorka Guruzeta,31,assist by Nico Williams,False
+4205619,Athletic Club,Saul Coco,65,,False
+4205621,Real Madrid,Vinicius Junior,21,,True
+4205621,Real Madrid,Vicente Guaita,79,,True
+4205621,Real Madrid,Carlos Dominguez,88,,True
+4205621,Real Madrid,Arda Güler,90 + 4,assist by Daniel Ceballos,True
+4205615,Real Betis,Guido Rodriguez,30,assist by William Carvalho,True
+4205615,Real Betis,Willian José,45 + 2,assist by Pablo Fornals,True
+4205615,Villarreal,Álex Baena,40,assist by Alexander Sørloth,False
+4205615,Villarreal,Sokratis Papastathopoulos,48,,False
+4205615,Villarreal,Alexander Sørloth,67,assist by Gerard Moreno,False
+4205613,Almeria,Adrián Embarba,38,assist by Jonathan Viera,True
+4205613,Almeria,Marko Milovanovic,90 + 5,assist by Sergio Arribas,True
+4205613,Sevilla,Dodi Lukebakio,81,assist by Isaac Romero,False
+4205613,Sevilla,Lucas Ocampos,86,assist by Isaac Romero,False
+4205628,Real Sociedad,Mikel Merino,28,assist by Mikel Oyarzabal,True
+4205628,Real Sociedad,Arsen Zakharyan,68,assist by Brais Méndez,True
+4205631,Mallorca,Antonio Raillo,85,assist by Sergi Darder,True
+4205625,Osasuna,Ante Budimir,7,,True
+4205625,Osasuna,Iker Munoz,90 + 1,assist by Jesus Areso,True
+4205625,Real Madrid,Vinicius Junior,4,,False
+4205625,Real Madrid,Vinicius Junior,64,assist by Federico Valverde,False
+4205625,Real Madrid,Daniel Carvajal,18,assist by Federico Valverde,False
+4205625,Real Madrid,Brahim Diaz,61,assist by Federico Valverde,False
+4205624,Getafe,Jesus Santiago,33,assist by Ilaix Moriba,True
+4205632,Athletic Club,Gorka Guruzeta,32,assist by Nico Williams,True
+4205632,Athletic Club,Gorka Guruzeta,37,,True
+4205629,Sevilla,Youssef En-Nesyri,18,,True
+4205629,Celta Vigo,Carles Pérez,72,assist by Iago Aspas,False
+4205629,Celta Vigo,Jørgen Strand Larsen,78,assist by Jonathan Bamba,False
+4205626,Almeria,Leo Baptistao,14,assist by Largie Ramazani,False
+4205630,Villarreal,Jorge Cuenca,54,,True
+4205627,Rayo Vallecano,Florian Lejeune,40,,True
+4205627,Rayo Vallecano,Sergio Camello,78,,True
+4205623,Barcelona,Joao Félix,38,assist by Robert Lewandowski,False
+4205623,Barcelona,Robert Lewandowski,47,assist by Raphinha,False
+4205623,Barcelona,Fermin Lopez,65,assist by Robert Lewandowski,False
+4205635,Cadiz,Robert Navarro,51,assist by Rubén Alcaraz,True
+4205637,Sevilla,Sergio Ramos,5,,False
+4205633,Osasuna,José Arnáiz,2,assist by Jesus Areso,False
+4205633,Osasuna,Ante Budimir,9,assist by Jon Moncayola,False
+4205633,Osasuna,Iker Munoz,61,assist by Alejandro Catena,False
+4205634,Barcelona,Raphinha,59,assist by Joao Félix,True
+4205641,Girona,Artem Dovbyk,36,,True
+4205641,Girona,Artem Dovbyk,65,assist by Cristian Portu,True
+4205641,Girona,Cristhian Stuani,90 + 2,,True
+4205641,Real Betis,Willian José,45 + 4,,False
+4205641,Real Betis,Willian José,76,assist by Pablo Fornals,False
+4205638,Real Sociedad,Jon Pacheco,59,assist by Arsen Zakharyan,False
+4205639,Real Madrid,Rodrygo,8,assist by Brahim Diaz,True
+4205639,Real Madrid,Rodrygo,73,assist by Jude Bellingham,True
+4205640,Villarreal,Alexander Sørloth,50,assist by Gerard Moreno,True
+4205640,Atletico Madrid,Axel Witsel,9,assist by Rodrigo Riquelme,False
+4205640,Atletico Madrid,Saul Niguez,87,assist by César Azpilicueta,False
+4205599,Valencia,André Almeida,77,,False
+4205645,Real Betis,Juan Miranda,53,assist by Hector Bellerin,True
+4205645,Real Betis,Nabil Fekir,83,assist by Isco,True
+4205645,Celta Vigo,Jørgen Strand Larsen,90 + 1,assist by Franco Cervi,False
+4205644,Atletico Madrid,Antoine Griezmann,34,,True
+4205644,Atletico Madrid,Antoine Griezmann,50,,True
+4205644,Atletico Madrid,Ángel Correa,45 + 6,assist by Álvaro Morata,True
+4205644,Girona,Artem Dovbyk,4,assist by Yan Couto,False
+4205646,Real Madrid,Aurélien Tchouaméni,48,,False
+4205650,Barcelona,Joao Félix,37,,False
+4205648,Sevilla,Youssef En-Nesyri,43,assist by Nemanja Gudelj,False
+4205648,Sevilla,Dodi Lukebakio,90 + 3,,False
+4205652,Granada,Myrto Uzuni,9,,True
+4205652,Granada,Lucas Boye,38,assist by Sergio Ruiz,True
+4205643,Athletic Club,Oihan Sancet,66,assist by Gorka Guruzeta,True
+4205643,Villarreal,Daniel Parejo,90 + 5,,False
+4205649,Real Sociedad,Sheraldo Becker,32,assist by Javi Galán,True
+4205649,Real Sociedad,Mikel Oyarzabal,59,assist by Sheraldo Becker,True
+4205649,Almeria,Adrián Embarba,30,assist by Marc Pubill,False
+4205649,Almeria,Adrián Embarba,88,,False
+4205647,Valencia,André Almeida,18,assist by Diego Lopez,False
+4205654,Athletic Club,Gorka Guruzeta,24,,True
+4205654,Granada,Inaki Williams,6,,False
+4205655,Celta Vigo,Iago Aspas,37,assist by Carles Pérez,True
+4205655,Celta Vigo,Iago Aspas,76,assist by Anastasios Douvikas,True
+4205655,Celta Vigo,Williot Swedberg,39,assist by Iago Aspas,True
+4205655,Celta Vigo,Anastasios Douvikas,71,assist by Iago Aspas,True
+4205655,Las Palmas,Juanma Herzog,11,assist by Munir El Haddadi,False
+4205662,Rayo Vallecano,Pep Chavarria,80,,True
+4205662,Rayo Vallecano,Isi Palazon,84,assist by Iván Balliu,True
+4205662,Osasuna,Moi Gomez,29,assist by Raul Garcia,False
+4205659,Valencia,Pepelu,66,,True
+4205659,Real Betis,Ayoze Pérez,19,,False
+4205659,Real Betis,Ayoze Pérez,77,,False
+4205660,Girona,Eric Garcia,9,assist by Savio,True
+4205660,Girona,Iván Martin,22,assist by Miguel Gutiérrez,True
+4205660,Girona,Artem Dovbyk,71,assist by Miguel Gutiérrez,True
+4205660,Girona,Cristian Portu,82,,True
+4205660,Cadiz,Gonzalo Escalante,81,assist by Roger,False
+4205656,Getafe,Oscar Rodriguez,29,,True
+4205656,Real Sociedad,Ander Barrenetxea,13,assist by Sheraldo Becker,False
+4205653,Almeria,Anthony Lozano,30,,True
+4205653,Villarreal,Ilias Akhomach,25,assist by Alfonso Pedraza,False
+4205653,Villarreal,Alexander Sørloth,90 + 2,assist by Alberto Moreno,False
+4205657,Deportivo Alaves,Carlos Benavidez,15,assist by Kike Garcia,True
+4205657,Deportivo Alaves,Luis Rioja,90 + 2,assist by Carlos Vicente,True
+4205658,Real Madrid,Vinicius Junior,18,,True
+4205658,Real Madrid,Lucas Vázquez,73,assist by Vinicius Junior,True
+4205658,Real Madrid,Jude Bellingham,90 + 1,assist by Lucas Vázquez,True
+4205658,Barcelona,Andreas Christensen,6,assist by Raphinha,False
+4205658,Barcelona,Fermin Lopez,69,,False
+4205661,Sevilla,Youssef En-Nesyri,61,assist by Suso,True
+4205661,Sevilla,Isaac Romero,75,assist by Youssef En-Nesyri,True
+4205661,Mallorca,Abdon Prats,90 + 5,assist by Sergi Darder,False
+4205672,Real Madrid,Arda Güler,29,assist by Daniel Carvajal,False
+4205670,Girona,David Lopez,26,,False
+4205670,Girona,Artem Dovbyk,57,,False
+4205663,Almeria,Anthony Lozano,41,,True
+4205663,Getafe,Mason Greenwood,27,assist by Ilaix Moriba,False
+4205663,Getafe,Mason Greenwood,48,,False
+4205663,Getafe,Jaime Mata,61,assist by Mason Greenwood,False
+4205668,Deportivo Alaves,Giuliano Simeone,48,assist by Kike Garcia,True
+4205668,Deportivo Alaves,Jon Guridi,54,,True
+4205668,Deportivo Alaves,Carlos Benavidez,86,assist by Alex Sola,True
+4205669,Atletico Madrid,Rodrigo De Paul,15,,True
+4205669,Atletico Madrid,Ángel Correa,52,assist by Koke,True
+4205669,Atletico Madrid,Unai Simon,80,,True
+4205669,Athletic Club,Nico Williams,45,assist by Gorka Guruzeta,False
+4205666,Cadiz,Omar Mascarell,59,,True
+4205666,Mallorca,Vedat Muriqi,12,assist by Martin Valjent,False
+4205667,Granada,Facundo Pellistri,29,assist by Sergio Ruiz,True
+4205667,Granada,Myrto Uzuni,48,assist by Kamil Jozwiak,True
+4205667,Granada,Lucas Boye,90 + 4,,True
+4205671,Villarreal,Alexander Sørloth,18,assist by Álex Baena,True
+4205671,Villarreal,Alexander Sørloth,74,assist by Álex Baena,True
+4205671,Villarreal,Yerson Mosquera,69,assist by Álex Baena,True
+4205665,Real Betis,Isco,38,,True
+4205665,Sevilla,Kike Salas,56,assist by Marcos Acuna,False
+4205664,Barcelona,Fermin Lopez,22,assist by Raphinha,True
+4205664,Barcelona,Robert Lewandowski,49,assist by Ilkay Gündogan,True
+4205664,Barcelona,Robert Lewandowski,82,assist by Ronald Araujo,True
+4205664,Barcelona,Robert Lewandowski,90 + 3,,True
+4205664,Valencia,Hugo Duro,27,,False
+4205664,Valencia,Pepelu,38,,False
+4205675,Athletic Club,Inaki Williams,27,assist by Nico Williams,False
+4205675,Athletic Club,Inaki Williams,51,assist by Nico Williams,False
+4205681,Real Sociedad,Alex Suárez,33,,True
+4205681,Real Sociedad,Sheraldo Becker,45 + 1,assist by Brais Méndez,True
+4205679,Real Madrid,Brahim Diaz,51,assist by Luka Modric,True
+4205679,Real Madrid,Jude Bellingham,68,assist by Brahim Diaz,True
+4205679,Real Madrid,Joselu,90 + 3,assist by Nacho Fernandez,True
+4205677,Girona,Artem Dovbyk,4,assist by Iván Martin,True
+4205677,Girona,Cristian Portu,65,assist by Artem Dovbyk,True
+4205677,Girona,Cristian Portu,74,assist by Savio,True
+4205677,Girona,Miguel Gutiérrez,67,assist by Cristian Portu,True
+4205677,Barcelona,Andreas Christensen,3,assist by Lamine Yamal,False
+4205677,Barcelona,Robert Lewandowski,45 + 1,,False
+4205676,Atletico Madrid,Rodrigo Riquelme,5,,False
+4205678,Real Betis,Ayoze Pérez,41,,False
+4205678,Real Betis,Pablo Fornals,45 + 3,assist by Willian José,False
+4205673,Celta Vigo,Iago Aspas,21,,True
+4205673,Celta Vigo,Jørgen Strand Larsen,39,assist by Damian Rodriguez,True
+4205673,Celta Vigo,Anastasios Douvikas,82,assist by Iago Aspas,True
+4205673,Villarreal,Alberto Moreno,12,assist by Daniel Parejo,False
+4205673,Villarreal,Goncalo Guedes,65,assist by Alexander Sørloth,False
+4205682,Deportivo Alaves,Javi Lopez,68,assist by Carlos Vicente,False
+4205674,Almeria,Anthony Lozano,30,assist by Adrián Embarba,False
+4205680,Sevilla,Marcos Acuna,11,assist by Jesus Navas,True
+4205680,Sevilla,Youssef En-Nesyri,51,assist by Lucas Ocampos,True
+4205680,Sevilla,Dodi Lukebakio,80,,True
+4205688,Deportivo Alaves,Jon Guridi,12,assist by Giuliano Simeone,True
+4205688,Deportivo Alaves,Jon Guridi,90 + 9,assist by Ianis Hagi,True
+4205688,Girona,Eric Garcia,4,assist by Viktor Tsigankov,False
+4205688,Girona,Yangel Herrera,44,assist by Artem Dovbyk,False
+4205692,Mallorca,Giovanni González,29,assist by Jaume Costa,True
+4205691,Villarreal,Alexander Sørloth,30,assist by Jorge Cuenca,True
+4205691,Villarreal,Alexander Sørloth,90 + 7,assist by Álex Baena,True
+4205691,Villarreal,Yerson Mosquera,84,assist by Ramon Terrats,True
+4205691,Sevilla,Youssef En-Nesyri,26,,False
+4205691,Sevilla,Youssef En-Nesyri,44,assist by Jesus Navas,False
+4205687,Real Madrid,Francisco Garcia,38,,False
+4205687,Real Madrid,Arda Güler,45 + 2,assist by Francisco Garcia,False
+4205687,Real Madrid,Brahim Diaz,49,assist by Daniel Ceballos,False
+4205687,Real Madrid,Brahim Diaz,58,assist by Luka Modric,False
+4205683,Athletic Club,Inaki Williams,58,assist by Ander Herrera,True
+4205683,Athletic Club,Asier Villalibre,90 + 6,,True
+4205683,Osasuna,Raul Garcia,40,assist by Johan Mojica,False
+4205683,Osasuna,Rubén Garcia,47,assist by Jesus Areso,False
+4205686,Cadiz,Rubén Alcaraz,35,,True
+4205684,Atletico Madrid,Rodrigo De Paul,84,,True
+4205689,Real Betis,Pablo Fornals,8,assist by Willian José,True
+4205689,Real Betis,Isco,28,,True
+4205689,Real Betis,Ayoze Pérez,64,assist by Isco,True
+4205689,Almeria,Leo Baptistao,45 + 1,assist by Marc Pubill,False
+4205689,Almeria,Luka Romero,66,,False
+4205685,Barcelona,Lamine Yamal,40,assist by Ilkay Gündogan,True
+4205685,Barcelona,Raphinha,90 + 3,,True
+4205700,Osasuna,Jon Moncayola,14,,True
+4205700,Mallorca,Sergi Darder,65,,False
+4205702,Real Madrid,Jude Bellingham,10,assist by Toni Kroos,True
+4205702,Real Madrid,Vinicius Junior,27,assist by Eduardo Camavinga,True
+4205702,Real Madrid,Vinicius Junior,70,assist by Jude Bellingham,True
+4205702,Real Madrid,Federico Valverde,45 + 1,assist by Jude Bellingham,True
+4205702,Real Madrid,Arda Güler,81,,True
+4205694,Villarreal,Bertrand Traoré,59,,False
+4205701,Rayo Vallecano,Florian Lejeune,23,,True
+4205701,Rayo Vallecano,Jorge de Frutos,80,,True
+4205701,Granada,Lucas Boye,89,assist by Sergio Rodelas,False
+4205699,Cadiz,Sergi Guardiola,90 + 6,assist by Juanmi,False
+4205696,Celta Vigo,Williot Swedberg,68,assist by Hugo Álvarez,True
+4205696,Celta Vigo,Hugo Álvarez,71,assist by Damian Rodriguez,True
+4205696,Athletic Club,Alex Berenguer,23,,False
+4205697,Atletico Madrid,Antoine Griezmann,27,assist by Rodrigo De Paul,False
+4205697,Atletico Madrid,Antoine Griezmann,42,assist by Samuel Dias Lino,False
+4205697,Atletico Madrid,Antoine Griezmann,51,assist by Samuel Dias Lino,False
+4205698,Las Palmas,Alex Suárez,27,,True
+4205698,Las Palmas,Alberto Moleiro,64,assist by Enzo Loiodice,True
+4205698,Real Betis,Mika Mármol,21,,False
+4205698,Real Betis,Ayoze Pérez,49,assist by Abner,False
+4205693,Barcelona,Fermin Lopez,14,assist by Héctor Fort,False
+4205693,Barcelona,Fermin Lopez,67,assist by Sergi Roberto,False
+4205695,Real Sociedad,André Silva,3,assist by Takefusa Kubo,True
+4205708,Deportivo Alaves,Carlos Vicente,12,assist by Rubén Duarte,True
+4205703,Athletic Club,Raul Garcia,17,assist by Oscar de Marcos,True
+4205703,Athletic Club,Iker Muniain,19,assist by Nico Williams,True
+4205704,Atletico Madrid,Álvaro Morata,55,assist by Samuel Dias Lino,True
+4205704,Osasuna,Raul Garcia,26,assist by Alejandro Catena,False
+4205704,Osasuna,Raul Garcia,64,assist by Jesus Areso,False
+4205704,Osasuna,Aimar Oroz,52,,False
+4205704,Osasuna,Lucas Torro,88,assist by Pablo Ibánez,False
+4205705,Barcelona,Robert Lewandowski,3,assist by Lamine Yamal,True
+4205705,Barcelona,Pedri,72,,True
+4205705,Barcelona,Pedri,75,assist by Ronald Araujo,True
+4205710,Granada,Bruno Méndez,86,,True
+4205710,Celta Vigo,Jørgen Strand Larsen,61,assist by Hugo Sotelo,False
+4205710,Celta Vigo,Jonathan Bamba,63,assist by Jørgen Strand Larsen,False
+4205709,Mallorca,Cyle Larin,29,assist by José Copete,True
+4205709,Mallorca,Sergi Darder,83,assist by Antonio Raillo,True
+4205709,Almeria,Sergio Arribas,41,,False
+4205709,Almeria,Bruno Langa,66,assist by Sergio Arribas,False
+4205706,Real Sociedad,Brais Méndez,5,,False
+4205706,Real Sociedad,Mikel Merino,42,assist by Mikel Oyarzabal,False
+4205711,Valencia,Pepelu,84,,True
+4205711,Girona,Savio,32,assist by Viktor Tsigankov,False
+4205711,Girona,Artem Dovbyk,58,assist by Iván Martin,False
+4205711,Girona,Yarek Gasiorowski,67,,False
+4205712,Villarreal,Alexander Sørloth,39,assist by Yerson Mosquera,True
+4205712,Villarreal,Alexander Sørloth,48,assist by Gerard Moreno,True
+4205712,Villarreal,Alexander Sørloth,52,,True
+4205712,Villarreal,Alexander Sørloth,56,assist by Gerard Moreno,True
+4205712,Real Madrid,Arda Güler,14,assist by Brahim Diaz,False
+4205712,Real Madrid,Arda Güler,45 + 2,assist by Lucas Vázquez,False
+4205712,Real Madrid,Joselu,30,assist by Lucas Vázquez,False
+4205712,Real Madrid,Lucas Vázquez,40,assist by Brahim Diaz,False
+4205716,Girona,Eric Garcia,30,assist by Viktor Tsigankov,True
+4205716,Girona,Viktor Tsigankov,33,assist by Miguel Gutiérrez,True
+4205716,Girona,Viktor Tsigankov,54,assist by Savio,True
+4205716,Girona,Artem Dovbyk,44,,True
+4205716,Girona,Artem Dovbyk,75,assist by Cristhian Stuani,True
+4205716,Girona,Artem Dovbyk,90,,True
+4205716,Girona,Cristhian Stuani,78,assist by Artem Dovbyk,True
+4205717,Osasuna,Ante Budimir,30,assist by Rubén Pena,True
+4205717,Villarreal,José Luis Morales,57,assist by Álex Baena,False
+4205719,Atletico Madrid,Samuel Dias Lino,9,assist by Marcos Llorente,False
+4205719,Atletico Madrid,Reinildo,90 + 3,assist by Álvaro Morata,False
+4205713,Almeria,Gonzalo Melero,48,assist by Adrián Embarba,True
+4205713,Almeria,Sergio Arribas,51,,True
+4205713,Almeria,Sergio Arribas,86,,True
+4205713,Almeria,Joseba Zaldua,57,,True
+4205713,Almeria,Luis Suárez,65,assist by Jonathan Viera,True
+4205713,Almeria,Luis Suárez,71,,True
+4205713,Cadiz,Brian Ocampo,30,assist by Álex Fernández,False
+4205718,Athletic Club,Nico Williams,67,assist by Alex Berenguer,False
+4205715,Getafe,Gaston Álvarez,48,assist by Oscar Rodriguez,True
+4205715,Mallorca,Vedat Muriqi,90,assist by Antonio Raillo,False
+4205715,Mallorca,Pablo Maffeo,90 + 3,assist by Manu Morlanes,False
+4205714,Celta Vigo,Iago Aspas,49,,True
+4205714,Celta Vigo,Anastasios Douvikas,62,assist by Iago Aspas,True
+4205714,Valencia,Carlos Dominguez,5,,False
+4205714,Valencia,Alberto Mari,60,,False
+4205722,Las Palmas,Marc Cardona,71,assist by Benito,True
+4205722,Deportivo Alaves,Carlos Vicente,50,assist by Giuliano Simeone,False
+4205720,Sevilla,Youssef En-Nesyri,31,assist by Boubakary Soumaré,True
+4205720,Barcelona,Robert Lewandowski,15,assist by Joao Cancelo,False
+4205720,Barcelona,Fermin Lopez,59,assist by Ilkay Gündogan,False
